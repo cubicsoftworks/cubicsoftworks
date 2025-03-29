@@ -1,6 +1,6 @@
-## Cubic Softworks Inc.
+## Photon Technology
 
-The main repository for Cubic Softworks.
+This repository holds the source code for Photon Technology.
 
 ## For developers
 
