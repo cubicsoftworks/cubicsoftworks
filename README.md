@@ -1,4 +1,4 @@
-## Photon Technology
+## Photon: A library of performance
 
 This repository holds the source code for Photon Technology.
 
